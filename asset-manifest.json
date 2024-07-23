@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Beach-Resort/static/css/main.c6439c1b.css",
-    "main.js": "/Beach-Resort/static/js/main.ce13ea48.js",
+    "main.js": "/Beach-Resort/static/js/main.31529d0e.js",
     "static/js/453.b5c8bd62.chunk.js": "/Beach-Resort/static/js/453.b5c8bd62.chunk.js",
     "static/media/details-1.jpeg": "/Beach-Resort/static/media/details-1.c485174060e0cfd387f1.jpeg",
     "static/media/room-7.jpeg": "/Beach-Resort/static/media/room-7.d2c011f051d458d2d48a.jpeg",
@@ -24,11 +24,11 @@
     "static/media/logo.svg": "/Beach-Resort/static/media/logo.87947b58e786b5fa417693c41e0781e1.svg",
     "index.html": "/Beach-Resort/index.html",
     "main.c6439c1b.css.map": "/Beach-Resort/static/css/main.c6439c1b.css.map",
-    "main.ce13ea48.js.map": "/Beach-Resort/static/js/main.ce13ea48.js.map",
+    "main.31529d0e.js.map": "/Beach-Resort/static/js/main.31529d0e.js.map",
     "453.b5c8bd62.chunk.js.map": "/Beach-Resort/static/js/453.b5c8bd62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6439c1b.css",
-    "static/js/main.ce13ea48.js"
+    "static/js/main.31529d0e.js"
   ]
 }
